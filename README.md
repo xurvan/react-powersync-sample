@@ -1,1 +1,1 @@
-# A Node.js project
+# React PowerSync Sample
