@@ -8,7 +8,7 @@ your React app.
 - Create a very simple database
 - Create one table in the database
 - Create one record in the table
-- Select all the queries and display them
+- Query all the records and display them
 
 ## Setup
 
